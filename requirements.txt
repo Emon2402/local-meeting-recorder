@@ -1,0 +1,27 @@
+# Meeting Recorder App - Python Dependencies
+
+# Web Framework & API
+flask==3.0.0
+flask-cors==4.0.0
+
+# Audio Processing
+soundfile==0.12.1
+# pyaudio==0.2.13  # Temporarily disabled due to Windows build issues
+
+# Database
+# sqlite3  # Built-in with Python
+
+# Utilities
+python-dotenv==1.0.0
+
+# Audio Recording
+sounddevice==0.4.6
+scipy==1.11.4
+
+# Spracherkennung (ASR)
+faster-whisper==1.0.0
+
+# Sprechererkennung (Diarization AI)
+torch
+torchaudio
+speechbrain

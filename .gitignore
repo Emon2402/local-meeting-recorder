@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Data files and User recordings
+data/*.db
+data/recordings/*.wav
+data/voice_profiles.pkl
+
+# Ignore MacOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# SpeechBrain / HuggingFace caches (if any were created locally)
+models/
+pretrained_models/
+.cache/
+
+# IDE settings
+.vscode/
+.idea/
