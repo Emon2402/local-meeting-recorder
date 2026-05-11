@@ -1,6 +1,6 @@
 # Meeting Recorder App
 
-A privacy-first, locally-hosted meeting transcription and speaker recognition tool. Perfect for medical consultations, interviews, and professional meetings.
+A privacy-first, locally-hosted meeting transcription and speaker recognition tool.
 
 ## Features
 
